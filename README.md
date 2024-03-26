@@ -1,10 +1,10 @@
 
 - 👋 Olá, me chamo @LucasPSathler
-- Curso análise e Desenvolvimento de Sistemas. Atualmente estudo Desenvolvimento Web e estou buscando conhecimentos em Python.
+- Curso análise e Desenvolvimento de Sistemas.
 - Conhecimento intermediário em Inglês.
 - Buscando novos projetos e me aprimorar mais!
 - Me encontre em meu LinkedIn -> Lucas Sathler
-
+JavaScript
 
 
 <!---
